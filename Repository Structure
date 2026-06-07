@@ -1,0 +1,16 @@
+Linux-Automation-Scripts/
+│
+├── README.md
+├── .gitignore
+├── scripts/
+│   ├── disk-usage.sh
+│   ├── memory-check.sh
+│   ├── cpu-check.sh
+│   ├── user-management.sh
+│   └── backup.sh
+│
+├── docs/
+│   └── linux-commands.md
+│
+└── practice-log/
+    └── daily-practice.txt
