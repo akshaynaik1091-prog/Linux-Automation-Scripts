@@ -1,0 +1,9 @@
+07-Jun-2026
+
+Tasks Completed:
+- Created GitHub Repository
+- Practiced Git Commands
+- Connected EC2 via SSH
+- Checked Memory Usage
+- Checked Disk Usage
+- Learned lsblk Command
