@@ -1,0 +1,3 @@
+git add .
+git commit -m "Added Linux automation scripts"
+git push origin main
